@@ -1,0 +1,177 @@
+#root{
+  font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
+  font-size: larger;
+}
+
+#loginBox, #registerBox{
+  top: 300px;
+  max-width: 450px;
+  padding: 40px;
+}
+
+#profileBox{
+  max-width: 350px;
+  padding: 40px;
+}
+
+.pageHeader{
+  margin-top: 30px;
+}
+
+.spaceInput{
+  padding: 3px;
+}
+
+.spaceField{
+  padding: 10px;
+}
+
+.container, .container-md{
+  /*background-color: #393d42;*/
+}
+
+.errorMsg{
+  color: red;
+  
+  font-size: 13px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+#homepageSpinner{
+  width: 10rem;
+  height: 10rem;
+}
+
+#messageField{
+  color:red;
+  font-size: 13px;
+}
+
+#headDate{
+  max-width: 20px;
+}
+
+.navButton{
+  cursor: pointer;
+}
+
+.tableBorderTop{
+  border-top: 3px solid black;
+}
+
+.tableBorderBottom{
+  border-bottom: 3px solid black;
+}
+
+.userInfo{
+  font-size: 14px;
+  float: right;
+}
+
+.userManagementLink{
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.smallHeader{
+  font-size: 24px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.smallHeaderHomepage{
+  text-align: center;
+}
+
+.centerItem{
+  text-align: center;
+}
+
+.profilePic{
+  scale: 20%;
+}
+
+.startPageBox{
+  max-height: 350px;
+  overflow: auto;
+}
+
+.tblHeader{
+  overflow: auto;
+  width: 300px;
+  border-right: 3px solid black;
+}
+
+.usersTableBox{
+  padding: 40px;
+}
+
+.startpageTable{
+  padding: 20px;
+  border-bottom-left-radius: 1%;
+}
+.bTag{
+  /*font-size: 22px;*/
+}
+.navbarIMG{
+  max-width: 50px;
+}
+
+.usersTable, .userTableCells, .userTableHead{
+  /*border: 1px solid black;
+  padding: 20px;*/
+}
+
+.titleDivNavBar{
+  padding-right: 60px;
+}
+
+.timeSpinner{
+  cursor: pointer;
+}
+
+.startTable{
+  border: 2px solid black;
+}
+
+.startTableCells{
+  padding: 170px;
+}
+
+.boxHeader{
+  padding: 10px;
+  background: #a8c4dd;
+  border-radius: 20px;
+}
+
+.borderBox{
+  padding: 10px;
+  /*border: 1px solid black;
+  border-radius: 2%;*/
+}
+
+#stopTracking, #startTracking{
+  max-width: 350px;
+  padding: 4px;
+  text-align: center;
+}
+
+.insertEntryTD{
+  background: black !important;
+  padding: 10px;
+}
+
+.insertEntryBox{
+  /*background: black;*/
+  border: 1px solid black;
+}
+
+.lblEntryBox{
+  color: white;
+}
+
+.noticeFieldHeader{
+  width: 300px;
+  overflow: auto;
+}
